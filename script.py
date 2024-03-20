@@ -21,9 +21,9 @@ class script(object):
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
 <b>📢 Channel :</b> <a href='https://t.me/The_Movies_Officially</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/ROHANKUMAR188'>RJ SUPPORT</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/ROHANKUMAR188'>RJ_SUPPORT</a>
 
-<b>♻️ Bot Made By :</b>@ROHANKUMAR188"""
+<b>♻️ Bot Made By :</b> @ROHANKUMAR188"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>

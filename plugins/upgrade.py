@@ -20,10 +20,10 @@ async def upgrade(bot,update):
 	Price Rs 179  ind /🌎 2.16$  per Month
 	
 	
-	Pay Using Upi I'd `madflixofficial@axl`
+	Pay Using Upi I'd `6371434453@fam`
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @calladminrobot"""
+        Payment To Admin @ROHANKUMAR188"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("Admin",url = "https://t.me/ROHANKUMAR188")], 
         			[InlineKeyboardButton("Phone Pay",url = "https://pay.upilink.in/pay/6371434453@fam"),
